@@ -29,3 +29,29 @@ int main() {
 
     return 0;
 }
+
+
+{код чтобы скопировать без комментариев}
+#include <bits/stdc++.h>
+using namespace std;
+
+using ll = long long;
+
+void solve() {
+    // Здесь пишем решение задачи
+
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t;
+    cin >> t;
+
+    while (t--) {
+        solve();
+    }
+
+    return 0;
+}
